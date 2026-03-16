@@ -1,0 +1,146 @@
+[
+  {
+    "id": "q1",
+    "type": "quote",
+    "content": "The impediment to action advances action. What stands in the way becomes the way.",
+    "source": "Marcus Aurelius, Meditations"
+  },
+  {
+    "id": "q2",
+    "type": "quote",
+    "content": "You do not rise to the level of your goals. You fall to the level of your systems.",
+    "source": "James Clear, Atomic Habits"
+  },
+  {
+    "id": "q3",
+    "type": "quote",
+    "content": "Almost everything will work again if you unplug it for a few minutes, including you.",
+    "source": "Anne Lamott"
+  },
+  {
+    "id": "q4",
+    "type": "quote",
+    "content": "The most common form of despair is not being who you are.",
+    "source": "Søren Kierkegaard"
+  },
+  {
+    "id": "q5",
+    "type": "quote",
+    "content": "Do not go where the path may lead; go instead where there is no path and leave a trail.",
+    "source": "Ralph Waldo Emerson"
+  },
+  {
+    "id": "q6",
+    "type": "quote",
+    "content": "The cave you fear to enter holds the treasure you seek.",
+    "source": "Joseph Campbell"
+  },
+  {
+    "id": "m1",
+    "type": "memory",
+    "content": "That early morning hike where we reached the summit just as the sun crested the ridge — everything turned gold and we stood there in complete silence, not needing to say anything.",
+    "source": "Mountain trip, Summer 2022"
+  },
+  {
+    "id": "m2",
+    "type": "memory",
+    "content": "The afternoon my daughter first read a full chapter book aloud to me, stumbling over a few words but never stopping, her face glowing with quiet pride when she finished.",
+    "source": "October 2023"
+  },
+  {
+    "id": "m3",
+    "type": "memory",
+    "content": "Staying up until 3am with old friends, talking about nothing important and everything that mattered — the kind of conversation that reminds you who you are.",
+    "source": "New Year's Eve gathering"
+  },
+  {
+    "id": "m4",
+    "type": "memory",
+    "content": "The moment I handed in my resignation letter and walked outside to find it raining — I stood in it for a full minute, laughing.",
+    "source": "Career change, March 2021"
+  },
+  {
+    "id": "m5",
+    "type": "memory",
+    "content": "Finding my grandfather's old notebook in a box, filled with his careful handwriting — recipes, phone numbers, a single pressed flower with no explanation.",
+    "source": "Family clearing, 2019"
+  },
+  {
+    "id": "g1",
+    "type": "goal",
+    "content": "Write one honest page every single morning — not for anyone else, not polished, just real. Build the muscle of putting thoughts into words before the day shapes them.",
+    "source": "Written: January 1, 2024"
+  },
+  {
+    "id": "g2",
+    "type": "goal",
+    "content": "Learn to sit with discomfort for 10 minutes a day without reaching for a screen. Just breathe. Let the boredom pass through.",
+    "source": "Written: February 14, 2024"
+  },
+  {
+    "id": "g3",
+    "type": "goal",
+    "content": "Call one person I've been meaning to reach out to — every week. Not a text. An actual call. Rebuild the lost art of real conversation.",
+    "source": "Written: March 2023"
+  },
+  {
+    "id": "g4",
+    "type": "goal",
+    "content": "Finish reading the stack of books on the nightstand before buying a single new one. Honor the commitments already made, even the small ones.",
+    "source": "Written: December 31, 2023"
+  },
+  {
+    "id": "g5",
+    "type": "goal",
+    "content": "Run a 5K without stopping. Not for a time, not to impress anyone — just to prove that I can follow through on something that's just for me.",
+    "source": "Written: September 2023"
+  },
+  {
+    "id": "i1",
+    "type": "idea",
+    "content": "What if instead of a to-do list, I kept a 'done list' — writing down what I actually accomplished each day rather than what I failed to get to?",
+    "source": "Shower thought, Tuesday morning"
+  },
+  {
+    "id": "i2",
+    "type": "idea",
+    "content": "A local supper club where each person brings a dish from a country they've never visited — research the culture, cook the food, share what you learned over dinner.",
+    "source": "Conversation with Maya, July 2023"
+  },
+  {
+    "id": "i3",
+    "type": "idea",
+    "content": "Map every coffee shop in the city not by rating but by 'best for crying in public' — a genuinely useful guide for difficult days.",
+    "source": "Bad Tuesday, October 2022"
+  },
+  {
+    "id": "i4",
+    "type": "idea",
+    "content": "Write a letter to myself to open in 10 years — not about predictions, just questions I'm living with right now that I want to see whether I've answered.",
+    "source": "Journal entry, New Year's 2024"
+  },
+  {
+    "id": "i5",
+    "type": "idea",
+    "content": "Build a 'slow media' morning routine: one long article, one chapter of a book, no notifications for the first hour. Information diet as intentional practice.",
+    "source": "Note to self, February 2024"
+  },
+  {
+    "id": "i6",
+    "type": "idea",
+    "content": "What if every time I feel the urge to buy something, I write it in a notebook and wait 30 days? Buy only what made it to the next page.",
+    "source": "Minimalism experiment notes"
+  },
+  {
+    "id": "q7",
+    "type": "quote",
+    "content": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "source": "Will Durant (on Aristotle)"
+  },
+  {
+    "id": "m6",
+    "type": "memory",
+    "content": "Learning to bake bread during the lockdown — the ritual of it, the patience required, the way the whole apartment smelled for hours afterward. Simplicity as a gift.",
+    "source": "Spring 2020"
+  }
+]
